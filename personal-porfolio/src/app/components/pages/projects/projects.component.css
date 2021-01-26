@@ -1,0 +1,16 @@
+.img {
+    max-width: 12rem;
+    max-height: 24rem;
+    margin: 1pc;
+}
+.projectList {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1cm;
+}
+.indProject {
+    max-width: 14rem;
+    max-height: 28rem;
+    margin-left: auto;
+}
